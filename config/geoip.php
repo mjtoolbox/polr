@@ -125,7 +125,7 @@ return [
     */
 
     'default_location' => [
-        'ip' => '127.0.0.0',
+        'ip' => 'polrdb.mysql.database.azure.com',
         'iso_code' => null,
         'country' => null,
         'city' => null,
